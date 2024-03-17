@@ -1,0 +1,26 @@
+.btn-custom{
+   background: aquamarine;
+   color: white;
+}
+.btn-custom:hover{
+    background: aquamarine;
+    color: black;
+}
+/* body-1 */
+.btn-custom{
+    background-color: aquamarine;
+}
+.custom-text{
+    margin-top: -700px;
+}
+
+.abc{
+    margin-top: -600px;
+}
+/* body-3 */
+.custom-color{
+    background-color: aqua;
+}
+/* .third1{
+    background-image: url('images/bg-2.jpg');
+} */
