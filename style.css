@@ -21,6 +21,29 @@
 .custom-color{
     background-color: aqua;
 }
-/* .third1{
-    background-image: url('images/bg-2.jpg');
-} */
+/* body-4 */
+.icon{
+    margin-left: 650px;
+   
+}
+/* body-5 */
+/* body-6 */
+.sixth{
+    background-image: url('images/bg-\ 4.jpg') ;
+   height: 100vh;
+}
+.container-second{
+    margin-left: 900px;
+    margin-top: -500px;
+}
+/* body-7 */
+.seventh{
+    margin-top: 100px;
+}
+/* body-8 */
+.Eight{
+    background-image: url('images/bg-5.jpg');
+    background-color: bisque;
+    height: 80vh;
+    opacity: 0.6;
+}
